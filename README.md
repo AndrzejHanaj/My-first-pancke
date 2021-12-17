@@ -1,2 +1,2 @@
-# My-first-pancke
+# My-first-pancake
 First repository
